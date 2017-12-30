@@ -1,0 +1,66 @@
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csprojResolveAssemblyReference.cache
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Login.resources
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Order.resources
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Properties.Resources.resources
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Register.resources
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csproj.GenerateResource.Cache
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe.config
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.pdb
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.dll
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.xml
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.exe
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.pdb
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Remove_Order.resources
+c:\users\56147\onedrive\documents\visual studio 2017\Projects\CSC430_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Selection.resources
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe.config
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.exe
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.pdb
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.pdb
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.xml
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Edit_Information.resources
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Login.resources
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Order.resources
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Properties.Resources.resources
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Register.resources
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Selection.resources
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csproj.GenerateResource.Cache
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\stringValidation.dll
+C:\Users\tony\Desktop\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.OrderHistory.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe.config
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.pdb
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\stringValidation.dll
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.xml
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Edit_Information.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Login.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Order.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Properties.Resources.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Register.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Selection.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.OrderHistory.resources
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csproj.GenerateResource.Cache
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.exe
+C:\Users\56147\Desktop\CSC424_FinalProject (2)\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.pdb
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe.config
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.exe
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\CSC430_FinalProject.pdb
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\stringValidation.dll
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\bin\Debug\MySql.Data.xml
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Edit_Information.resources
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Login.resources
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Order.resources
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Properties.Resources.resources
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Register.resources
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.Selection.resources
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.OrderHistory.resources
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.csproj.GenerateResource.Cache
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.exe
+C:\Users\56147\Desktop\CSC424_Final\CSC424_FinalProject\CSC430_FinalProject\obj\Debug\CSC430_FinalProject.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="fooddeliveryDataSet" targetNamespace="http://tempuri.org/fooddeliveryDataSet.xsd" xmlns:mstns="http://tempuri.org/fooddeliveryDataSet.xsd" xmlns="http://tempuri.org/fooddeliveryDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="fooddeliveryConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="fooddeliveryConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CSC430_FinalProject.Properties.Settings.GlobalReference.Default.fooddeliveryConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="food_orderTableAdapter" GeneratorDataComponentClassName="food_orderTableAdapter" Name="food_order" UserDataComponentName="food_orderTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="fooddeliveryConnectionString (Settings)" DbObjectName="fooddelivery.food_order" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Order_ID`, `Food_Name`, `Quantity`, `User_ID` FROM `food_order`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="fooddeliveryDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="fooddeliveryDataSet" msprop:Generator_UserDSName="fooddeliveryDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="food_order" msprop:Generator_TableClassName="food_orderDataTable" msprop:Generator_TableVarName="tablefood_order" msprop:Generator_TablePropName="food_order" msprop:Generator_RowDeletingName="food_orderRowDeleting" msprop:Generator_RowChangingName="food_orderRowChanging" msprop:Generator_RowEvHandlerName="food_orderRowChangeEventHandler" msprop:Generator_RowDeletedName="food_orderRowDeleted" msprop:Generator_UserTableName="food_order" msprop:Generator_RowChangedName="food_orderRowChanged" msprop:Generator_RowEvArgName="food_orderRowChangeEvent" msprop:Generator_RowClassName="food_orderRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
